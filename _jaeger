@@ -4,6 +4,8 @@
 local -a _1st_arguments
 _1st_arguments=(
   'trace: open a window with trace id'
+  'setenv: set url for different env'
+  'switch: switch env'
 )
 
 _arguments -C \
